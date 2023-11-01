@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElderReebs1995
 - 👀 I’m interested in site reliability engineering, system administration, cybersecurity, and all things tech. 
-- 🌱 I’m currently learning python scripting.
+- 🌱 I’m currently learning python scripting, kubernetes, and terraform! 
 - 💞️ I’m looking to collaborate on all things related to site reliability engineering.
 - 📫 How to reach me - linkedIn: https://www.linkedin.com/in/andrew-ribar-133129145/
 
